@@ -1,5 +1,5 @@
 ### はじまりのまえ、おしまいのあと 歌詞翻譯
-<button class="btn"><i class="fa fa-home"></i> Home</button>
+<button class="btn"><i class="fa fa-home"></i></button>
 
 はじまりのまえ、おしまいのあと<br>
 是一首述說在被記載的歷史以外的神話<br>
