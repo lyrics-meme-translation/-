@@ -2,7 +2,7 @@
 ### 歌詞翻譯<br>
 [Home](https://lyrics-meme-translation.github.io/Japanese-lyrics-translation/?fbclid=IwAR27WQeb84aZYoBfD29tQFZKUTggK7frbh1u-2Tt38RitVi5EeP9Ok_ZKw4)
 
-![image](https://github.com/lyrics-meme-translation/Hajimarinomae-Oshimainoato/blob/main/7C4BC4BCC8A74B479B62CD2021DD3D54_LL.jpg) <br>
+<img src="https://github.com/lyrics-meme-translation/Hajimarinomae-Oshimainoato/blob/main/7C4BC4BCC8A74B479B62CD2021DD3D54_LL.jpg" width="500" height="400"> <br>
 
 はじまりのまえ、おしまいのあと<br>
 是一首述說在被記載的歷史以外的神話<br>
