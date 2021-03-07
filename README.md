@@ -1,4 +1,5 @@
 ### はじまりのまえ、おしまいのあと<br>
+
 ###歌詞翻譯<br>
 [Home](https://lyrics-meme-translation.github.io/Japanese-lyrics-translation/?fbclid=IwAR27WQeb84aZYoBfD29tQFZKUTggK7frbh1u-2Tt38RitVi5EeP9Ok_ZKw4)
 
