@@ -1,4 +1,4 @@
-<img src="https://images.app.goo.gl/5KRjsVQKj4qRYJBR6">
+<img src="0.jpg">
 
 ### はじまりのまえ、おしまいのあと 歌詞翻譯
 [Home](https://lyrics-meme-translation.github.io/Japanese-lyrics-translation/?fbclid=IwAR27WQeb84aZYoBfD29tQFZKUTggK7frbh1u-2Tt38RitVi5EeP9Ok_ZKw4)
