@@ -1,4 +1,5 @@
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fletras2.com%2F%25E6%259C%25AA%25E6%259D%25A5%25E5%258F%25A4%25E4%25BB%25A3%25E6%25A5%25BD%25E5%259B%25A3-feat-dazbee-%25E3%2580%258C%25E3%2581%25AF%25E3%2581%2598%25E3%2581%25BE%25E3%2582%258A%25E3%2581%25AE%25E3%2581%25BE%25E3%2581%2588%25E3%2580%2581%25E3%2581%258A%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2584%25E3%2581%25AE%2F&psig=AOvVaw2YcXh4Fon0uvbtjtxUNkGF&ust=1615190527767000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOi_ot_bne8CFQAAAAAdAAAAABAD">
+
 ### はじまりのまえ、おしまいのあと 歌詞翻譯
 [Home](https://lyrics-meme-translation.github.io/Japanese-lyrics-translation/?fbclid=IwAR27WQeb84aZYoBfD29tQFZKUTggK7frbh1u-2Tt38RitVi5EeP9Ok_ZKw4)
 
