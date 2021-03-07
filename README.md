@@ -1,5 +1,5 @@
 ### はじまりのまえ、おしまいのあと 歌詞翻譯
-<button class="btn"><i class="fa fa-home"></i></button>
+[Home](https://lyrics-meme-translation.github.io/Japanese-lyrics-translation/?fbclid=IwAR27WQeb84aZYoBfD29tQFZKUTggK7frbh1u-2Tt38RitVi5EeP9Ok_ZKw4)</div>
 
 はじまりのまえ、おしまいのあと<br>
 是一首述說在被記載的歷史以外的神話<br>
