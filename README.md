@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/lyrics-meme-translation/Hajimarinomae-Oshimainoato/main/7C4BC4BCC8A74B479B62CD2021DD3D54_LL.jpg" width="600" height="400"> <br>
 
 はじまりのまえ、おしまいのあと<br>
-是一首述說在被記載的歷史以外的神話<br>
+是一首述說被記載在歷史以外的神話<br>
 一個不為任何人所知的故事<br>
 而這個故事寫出身為罪人滿滿的迷惘、煎熬<br>
 而這一切都是早就被天空中的繁星所指引的命運<br>
