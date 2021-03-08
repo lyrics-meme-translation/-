@@ -1,6 +1,6 @@
 ## はじまりのまえ、おしまいのあと<br>
 ### 歌詞翻譯<br>
-[桜の接ぎ木のもとへ](https://lyrics-meme-translation.github.io/sakura-no-tsugiki/)
+[桜の接ぎ木のもとへ（回到接木之櫻）](https://lyrics-meme-translation.github.io/sakura-no-tsugiki/)
 
 <img src="https://raw.githubusercontent.com/lyrics-meme-translation/Hajimarinomae-Oshimainoato/main/7C4BC4BCC8A74B479B62CD2021DD3D54_LL.jpg" width="600" height="400"> <br>
 
